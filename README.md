@@ -1,5 +1,5 @@
 # DevDay'22 Competition DataScience
-Compétition website : https://www.kaggle.com/competitions/devday22-competition-datascience
+Competition website : https://www.kaggle.com/competitions/devday22-competition-datascience
 
 # Task
 Predict the likelihood of a genome sequence undergoing mutation.
